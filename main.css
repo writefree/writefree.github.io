@@ -1,0 +1,42 @@
+/*
+
+Written By Alex Johnson
+Hosted on Github
+
+*/
+
+body {
+    background:#1abc9c;
+    margin:0
+}
+
+header {
+    width:100%;
+    background:#16a085;
+    height:55px;
+    margin:0
+}
+
+p {
+    text-align:left;
+    font-size:36px;
+    font-family:'Lobster',cursive;
+    margin:0 15px;
+    color:#fff
+}
+
+textarea {
+    width:70vw;
+    height:80vh;
+    font-size:24px;
+    font-family:'Lato',sans-serif;
+    color:#333;
+    resize:none;
+    margin:35px auto 0;
+    background:#f8f8f8;
+}
+
+.container {
+    text-align:center;
+    margin:15px auto
+}
